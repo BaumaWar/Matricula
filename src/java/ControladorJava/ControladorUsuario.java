@@ -18,5 +18,7 @@ public class ControladorUsuario {
         int Queso4=50;
         int Queso5=50;
         int Queso6=50;
+        int Queso7=50;
+        int Queso8=50;
     }
 }
