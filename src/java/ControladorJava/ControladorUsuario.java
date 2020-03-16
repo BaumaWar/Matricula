@@ -12,5 +12,11 @@ package ControladorJava;
 public class ControladorUsuario {
     public static void main(String[] args){
         int Queso=50;
+        int Queso1=50;
+        int Queso2=50;
+        int Queso3=50;
+        int Queso4=50;
+        int Queso5=50;
+        int Queso6=50;
     }
 }
