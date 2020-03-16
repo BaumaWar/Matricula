@@ -10,5 +10,7 @@ package ControladorJava;
  * @author ADMIN
  */
 public class ControladorUsuario {
-    
+    public static void main(String[] args){
+        int Queso=50;
+    }
 }
